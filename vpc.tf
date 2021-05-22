@@ -4,7 +4,7 @@ module "network" {
   version = "2.5.0"
   project_id    = var.project
 
-  network_name  = "db-net"
+  network_name  = "db-net2"
 
 
   subnets = [
