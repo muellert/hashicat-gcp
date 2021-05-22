@@ -1,4 +1,4 @@
-module "nework" {
+module "network" {
 
   source  = "app.terraform.io/linux-python/network/google"
   version = "2.5.0"
